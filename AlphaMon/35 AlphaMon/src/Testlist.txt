@@ -24,4 +24,4 @@
 - Do first throw and do a invalid move, that is occupied by a red
 - Moving wrong way: a black checker from R1 to B1 is invalid
 - Second throw, the dice values left is [4,3], after one move dice values left is [3], after second move dice values left is empty []
-- Make a move and test that we know the values of the dice rolled.
+- Make a move and test that we know the values of the dice rolled..
